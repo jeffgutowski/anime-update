@@ -1,0 +1,27 @@
+.check3s {
+    background-color: #fff;
+    border: solid 1px grey;
+    border-radius: 1px;
+    cursor: pointer;
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    margin-top: 3px;
+    color: white;
+    text-align: center;
+}
+
+.check3s-label {
+    margin-left: 20px;
+}
+
+.positive {
+    background-color: #4aca65;
+    border-color: #43b45b;
+}
+
+.negative {
+    background-color: #dc4e4e;
+    border-color: #c74545;
+}

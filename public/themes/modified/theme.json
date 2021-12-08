@@ -1,0 +1,9 @@
+{
+	"slug": "modified",
+	"name": "Modified Theme",
+	"author": "Kelly Anderson",
+	"description": "Modified Theme to better suit the code",
+	"version": "0.0.1",
+  "gameport_version": "1.42",
+  "public": true
+}
